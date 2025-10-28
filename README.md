@@ -19,17 +19,10 @@
 
 Настройки:
 
-<img width="597" height="322" alt="Снимок экрана 2025-10-28 в 14 07 18" src="https://github.com/user-attachments/assets/73be19d7-aa7f-4443-be93-d73045b2d64e" />
-
-Ступень 1:
-
-
-
-Ступень 2:
-
-Ступень 3:
+<img width="881" height="720" alt="Снимок экрана 2025-10-28 в 14 30 30" src="https://github.com/user-attachments/assets/6cfc8518-9db7-44ad-8d70-0adab9178254" />
 
 Графики:
+
 
 
 

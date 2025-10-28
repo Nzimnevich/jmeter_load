@@ -11,5 +11,23 @@
 <img width="1254" height="431" alt="Снимок экрана 2025-10-28 в 13 50 52" src="https://github.com/user-attachments/assets/484f4f29-a2db-473d-a831-88ec007a5184" />
 
 
+
+Вывод:
+
 Ступенчатая:
+Настройки:
+
+<img width="597" height="322" alt="Снимок экрана 2025-10-28 в 14 07 18" src="https://github.com/user-attachments/assets/73be19d7-aa7f-4443-be93-d73045b2d64e" />
+Ступень 1:
+
+Ступень 2:
+
+Ступень 3:
+
+Графики:
+
+
+
+Вывод:
+
 

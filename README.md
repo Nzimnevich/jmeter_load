@@ -15,6 +15,7 @@
 Вывод:
 
 Ступенчатая:
+
 Настройки:
 
 <img width="597" height="322" alt="Снимок экрана 2025-10-28 в 14 07 18" src="https://github.com/user-attachments/assets/73be19d7-aa7f-4443-be93-d73045b2d64e" />
